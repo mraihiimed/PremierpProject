@@ -1,0 +1,6 @@
+git remote add DDT https://github.com/mraihiimed/PremierpProject.git
+git clone https://github.com/mraihiimed/PremierpProject.git
+got to reparatory Premier project
+git init
+git branch -M cagnotte
+git checkout cagnotte
